@@ -1,0 +1,8 @@
+Quantity,Value,t,p
+Device queueing change (%),-28.2419,-18.6143,4.19493e-34
+Examination sojourn change (%),5.01775,49.3109,1.72262e-71
+"Device queueing as share of sojourn, fixed order (%)",1.70023,,
+Mean examinations per examined patient,1.99897,,
+Examined patients needing >=2 tests (%),71.3192,,
+"Sojourn p90, fixed order (min)",36.44,,
+"Sojourn p90, congestion-aware (min)",40.2133,,

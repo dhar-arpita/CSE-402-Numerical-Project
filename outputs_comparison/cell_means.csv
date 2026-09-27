@@ -1,0 +1,5 @@
+Routing,k1,k2,W_total_mean,W_total_SD,N,L3_delay_rate_pct
+Fixed order,3.3000,9.0000,38.3348,9.8885,100,2.6795
+Congestion-aware,3.3000,9.0000,42.7829,12.5652,100,3.1591
+Fixed order,12.0000,24.0000,41.0842,10.0445,100,0.0491
+Congestion-aware,12.0000,24.0000,39.0761,10.5356,100,0.0491

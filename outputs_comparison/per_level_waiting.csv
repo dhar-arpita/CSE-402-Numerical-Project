@@ -1,0 +1,7 @@
+Routing,Policy,W_level3,W_level4,W_device,W_followup_queue,W_total
+Fixed order,IFP,47.9546,50.0601,0.3403,77.6792,49.5360
+Congestion-aware,IFP,50.6995,53.2192,0.2471,82.2021,52.5870
+Fixed order,ALT,6.0390,51.5404,0.3107,2.3752,40.0758
+Congestion-aware,ALT,6.1439,51.0308,0.2198,2.3922,39.7542
+Fixed order,SBP,7.0800,48.8712,0.3038,11.1114,38.3348
+Congestion-aware,SBP,6.9273,49.8808,0.2226,13.7767,39.0761

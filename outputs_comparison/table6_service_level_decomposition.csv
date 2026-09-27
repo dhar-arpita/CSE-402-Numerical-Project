@@ -1,0 +1,4 @@
+Change,L3_delay_rate_pct,SL3_change_pts,t,p
+"congestion-aware / (3.3, 9.0)",3.1591,-0.4796,2.5916,0.0110
+"fixed order / (12.0, 24.0)",0.0491,2.6304,-18.5387,0.0000
+"congestion-aware / (12.0, 24.0)",0.0491,2.6305,-18.4887,0.0000
